@@ -1,1 +1,1 @@
-# CSC311-Machine-Learning
+# Machine-Learning
